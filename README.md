@@ -4,7 +4,7 @@ API Pokémon
 
 ## Description
 
-Une API pokémon faisant appelle a une autre API pokémon libre de droit et francaise. 
+Une API pokémon faisant appel à une autre API pokémon libre de droits et francaise. 
 
 ## Commencer
 
